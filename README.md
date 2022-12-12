@@ -10,3 +10,11 @@ problems to solve the maze. The user must click the start of the maze and the 4 
 
 If you would like to see a complete explantation of the project and the results of the project, please feel free to check out the Final Lab Report for 
 the project or if you have any question or improvements feel free to reach out by messages or email.
+
+The project, called "Maze Runner AI," takes in a picture of a 2D maze as input. The maze can have any size and can have any number of starting and ending points. The project uses different AI techniques to solve the maze, such as pathfinding algorithms like A* and Dijkstra's algorithm, and machine learning techniques like neural networks and random forests.
+
+Once the maze is given as input, the project uses these AI techniques to find the shortest path from the starting point to the ending point. The solution is then drawn on top of the original maze, highlighting the path that was found by the AI algorithms.
+
+The project also allows users to compare the performance of different AI techniques on the same maze, so they can see which technique works best for solving the maze. The project is written in Python and uses popular libraries like TensorFlow and NumPy for implementing the AI algorithms.
+
+Overall, the "Maze Runner AI" project provides a fun and interactive way to learn about different AI techniques and how they can be used to solve challenging problems like mazes.
