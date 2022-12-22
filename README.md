@@ -4,11 +4,13 @@ This project is designed to take in a picture of a maze and use AI techniques to
 To use the maze solver, you will need to have Python 3 and the following dependencies installed:
 
 NumPy
+
 OpenCV
 
 Once you have these dependencies installed, you can clone the repository and navigate to the root directory. From there, you can run the maze solver by using the following command:
 
 python main.py 
+
 <path_to_maze_image>
 
 The maze solver will then process the image and output the solution in the form of a series of steps.
